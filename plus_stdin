@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2022 Shoku Takahashi
-
-import sys
+# SPDX-License-Identifier: BSD-3-Clause
 
 ans = 0
 for line in sys.stdin:
