@@ -461,3 +461,73 @@ git add plus_stdin
 git init
 git branch
 git add -A
+git status
+ls
+git add -A
+git status
+cd robosys_2022
+ls
+cd robosys2022
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+cd ~/tmp
+cd
+ls
+cd tmp
+git clone git@github.com:s21c1072/robosys2022.git
+ls
+ls robosys
+mkdir A
+mv robosys2022/ ./A/
+ls
+cd
+ls
+mv robosys2022/.B
+mkdir B
+mv robosys2022/ ./B/
+ls */robosys2022
+;s
+ls
+ls robosys2022
+ls */robosys2022
+cd A
+cd B
+ls
+cd
+mv tmp/ A
+ls
+ls */robosys2022
+cd A
+;s
+ls
+vi plus_stdin
+ls
+mv
+cd
+cd A
+vi plus_stddin
+cd
+cdB
+cd B
+vi plus_stddin
+cd
+cd A
+cd B
+cd
+cd B
+vi plus_stddin
+cd
+cd A
+git add -A
+git commit -m "Make a function"
+git push
+git commit -m "Add a command"
+git add plus_stdin
+git status
+gti commit -m "Add a command"
+git commit -m "Add a command"
+git log -n 1
+git push
