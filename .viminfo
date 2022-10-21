@@ -18,15 +18,15 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1666325265,,"wq!"
+|2,0,1666327288,,"wq!"
 :wq
-|2,0,1666325114,,"wq"
+|2,0,1666327285,,"wq"
+:q
+|2,0,1666327204,,"q"
 :w!
 |2,0,1666239191,,"w!"
 :q!
 |2,0,1666238930,,"q!"
-:q
-|2,0,1666238924,,"q"
 :wq]
 |2,0,1666236159,,"wq]"
 :ew
@@ -37,10 +37,10 @@ $
 |2,0,1665022756,,"w"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1666327193,,"@$"
 ?/usr/bin/python3
 |2,1,1666270346,47,"usr/bin/python3"
-? @$
-|2,1,1666235797,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -49,12 +49,12 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	 
-|3,0,0,0,1,0,1666235797," "
-""1	LINE	0
+""0	LINE	0
 	print(ans)
-|3,1,1,1,1,0,1666238800,"print(ans)"
+|3,1,0,1,1,0,1666327200,"print(ans)"
+"1	LINE	0
+	print(ans)
+|3,0,1,1,1,0,1666238800,"print(ans)"
 "2	LINE	0
 	
 |3,0,2,1,1,0,1666238160,""
@@ -66,233 +66,252 @@ $
 |3,0,36,0,1,0,1666232308," "
 
 # File marks:
-'0  8  5  ~/B/robosys2022/plus_stdin
-|4,48,8,5,1666325265,"~/B/robosys2022/plus_stdin"
-'1  4  0  ~/A/A/robosys2022/plus_stdin
-|4,49,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
-'2  8  11  ~/B/plus_stddin
-|4,50,8,11,1666270443,"~/B/plus_stddin"
-'3  1  208  ~/B/plus_stddin
-|4,51,1,208,1666270352,"~/B/plus_stddin"
-'4  15  9  ~/B/plus_stddin
-|4,52,15,9,1666270352,"~/B/plus_stddin"
-'5  2  1  ~/A/plus_stddin
-|4,53,2,1,1666270322,"~/A/plus_stddin"
-'6  1  0  ~/A/plus_stdin
-|4,54,1,0,1666270246,"~/A/plus_stdin"
-'7  14  24  ~/robosys_plus/plus_stdin
-|4,55,14,24,1666239195,"~/robosys_plus/plus_stdin"
-'8  14  24  ~/robosys_plus/plus_stdin
-|4,56,14,24,1666239180,"~/robosys_plus/plus_stdin"
-'9  13  0  ~/robosys_plus/plus_stdin
-|4,57,13,0,1666238930,"~/robosys_plus/plus_stdin"
+'0  6  23  ~/A/A/robosys2022/plus_stdin
+|4,48,6,23,1666327288,"~/A/A/robosys2022/plus_stdin"
+'1  1  0  ~/A/A/robosys2022/COPYING
+|4,49,1,0,1666327204,"~/A/A/robosys2022/COPYING"
+'2  8  5  ~/B/robosys2022/plus_stdin
+|4,50,8,5,1666327172,"~/B/robosys2022/plus_stdin"
+'3  8  0  /
+|4,51,8,0,1666327103,"/"
+'4  8  5  ~/B/robosys2022/plus_stdin
+|4,52,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+'5  4  0  ~/A/A/robosys2022/plus_stdin
+|4,53,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+'6  4  0  ~/A/A/robosys2022/plus_stdin
+|4,54,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+'7  8  11  ~/B/plus_stddin
+|4,55,8,11,1666270443,"~/B/plus_stddin"
+'8  1  208  ~/B/plus_stddin
+|4,56,1,208,1666270352,"~/B/plus_stddin"
+'9  15  9  ~/B/plus_stddin
+|4,57,15,9,1666270352,"~/B/plus_stddin"
 
 # Jumplist (newest first):
+-'  6  23  ~/A/A/robosys2022/plus_stdin
+|4,39,6,23,1666327288,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666327225,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/COPYING
+|4,39,1,0,1666327204,"~/A/A/robosys2022/COPYING"
+-'  1  0  ~/A/A/robosys2022/COPYING
+|4,39,1,0,1666327204,"~/A/A/robosys2022/COPYING"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /
+|4,39,8,0,1666327103,"/"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  /home
+|4,39,8,0,1666327095,"/home"
+-'  8  0  ~
+|4,39,8,0,1666327095,"~"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B
+|4,39,8,0,1666327094,"~/B"
+-'  8  0  ~/B/robosys2022
+|4,39,8,0,1666327093,"~/B/robosys2022"
+-'  8  0  ~/B/robosys2022
+|4,39,8,0,1666327093,"~/B/robosys2022"
+-'  8  0  ~/B/robosys2022
+|4,39,8,0,1666327093,"~/B/robosys2022"
+-'  8  0  ~/B/robosys2022
+|4,39,8,0,1666327093,"~/B/robosys2022"
+-'  1  0  ~/B/robosys2022
+|4,39,1,0,1666327092,"~/B/robosys2022"
+-'  1  0  ~/B/robosys2022
+|4,39,1,0,1666327092,"~/B/robosys2022"
+-'  1  0  ~/B/robosys2022
+|4,39,1,0,1666327092,"~/B/robosys2022"
+-'  1  0  ~/B/robosys2022
+|4,39,1,0,1666327092,"~/B/robosys2022"
 -'  8  5  ~/B/robosys2022/plus_stdin
 |4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  8  5  ~/B/robosys2022/plus_stdin
+|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
+-'  1  0  ~/B/robosys2022/plus_stdin
+|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
 -'  1  0  ~/B/robosys2022/plus_stdin
 |4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
 -'  4  0  ~/A/A/robosys2022/plus_stdin
 |4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
 -'  4  0  ~/A/A/robosys2022/plus_stdin
 |4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
+-'  4  0  ~/A/A/robosys2022/plus_stdin
+|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
 -'  1  0  ~/A/A/robosys2022/plus_stdin
 |4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
 -'  1  0  ~/A/A/robosys2022/plus_stdin
 |4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  8  11  ~/B/plus_stddin
-|4,39,8,11,1666270443,"~/B/plus_stddin"
--'  8  11  ~/B/plus_stddin
-|4,39,8,11,1666270443,"~/B/plus_stddin"
--'  8  11  ~/B/plus_stddin
-|4,39,8,11,1666270443,"~/B/plus_stddin"
--'  8  11  ~/B/plus_stddin
-|4,39,8,11,1666270443,"~/B/plus_stddin"
--'  1  208  ~/B/plus_stddin
-|4,39,1,208,1666270397,"~/B/plus_stddin"
--'  1  208  ~/B/plus_stddin
-|4,39,1,208,1666270397,"~/B/plus_stddin"
--'  1  208  ~/B/plus_stddin
-|4,39,1,208,1666270397,"~/B/plus_stddin"
--'  1  208  ~/B/plus_stddin
-|4,39,1,208,1666270397,"~/B/plus_stddin"
--'  15  9  ~/B/plus_stddin
-|4,39,15,9,1666270352,"~/B/plus_stddin"
--'  15  9  ~/B/plus_stddin
-|4,39,15,9,1666270352,"~/B/plus_stddin"
--'  15  9  ~/B/plus_stddin
-|4,39,15,9,1666270352,"~/B/plus_stddin"
--'  15  9  ~/B/plus_stddin
-|4,39,15,9,1666270352,"~/B/plus_stddin"
--'  1  0  ~/B/plus_stddin
-|4,39,1,0,1666270344,"~/B/plus_stddin"
--'  1  0  ~/B/plus_stddin
-|4,39,1,0,1666270344,"~/B/plus_stddin"
--'  1  0  ~/B/plus_stddin
-|4,39,1,0,1666270344,"~/B/plus_stddin"
--'  1  0  ~/B/plus_stddin
-|4,39,1,0,1666270344,"~/B/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  2  1  ~/A/plus_stddin
-|4,39,2,1,1666270322,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stddin
-|4,39,1,0,1666270281,"~/A/plus_stddin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  1  0  ~/A/plus_stdin
-|4,39,1,0,1666270246,"~/A/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
--'  14  24  ~/robosys_plus/plus_stdin
-|4,39,14,24,1666239195,"~/robosys_plus/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  1  0  ~/A/A/robosys2022/plus_stdin
+|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
 
 # History of marks within files (newest to oldest):
 
+> ~/A/A/robosys2022/plus_stdin
+	*	1666327285	0
+	"	6	23
+	^	6	24
+	.	7	0
+	+	12	58
+	+	12	0
+	+	10	16
+	+	8	16
+	+	9	8
+	+	7	2
+	+	5	0
+	+	4	0
+	+	7	0
+
+> ~/A/A/robosys2022/COPYING
+	*	1666327202	0
+	"	1	0
+
 > ~/B/robosys2022/plus_stdin
-	*	1666325261	0
+	*	1666327169	0
 	"	8	5
 	^	8	6
 	.	8	5
@@ -304,20 +323,6 @@ $
 	+	12	6
 	+	9	2
 	+	8	5
-
-> ~/A/A/robosys2022/plus_stdin
-	*	1666325114	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	11	58
-	+	11	0
-	+	9	16
-	+	7	16
-	+	8	8
-	+	6	2
-	+	5	0
-	+	4	0
 
 > ~/B/plus_stddin
 	*	1666270441	0
