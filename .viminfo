@@ -17,12 +17,16 @@
 $
 
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1666327288,,"wq!"
 :wq
-|2,0,1666327285,,"wq"
+|2,0,1667443016,,"wq"
+:wq!
+|2,0,1666841600,,"wq!"
+:wqQ
+|2,0,1666841581,,"wqQ"
 :q
-|2,0,1666327204,,"q"
+|2,0,1666839921,,"q"
+:.q
+|2,0,1666838648,,".q"
 :w!
 |2,0,1666239191,,"w!"
 :q!
@@ -37,10 +41,10 @@ $
 |2,0,1665022756,,"w"
 
 # Search String History (newest to oldest):
+?/usr/bin/python3
+|2,1,1666332712,47,"usr/bin/python3"
 ? @$
 |2,1,1666327193,,"@$"
-?/usr/bin/python3
-|2,1,1666270346,47,"usr/bin/python3"
 
 # Expression History (newest to oldest):
 
@@ -49,280 +53,486 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
+"0	LINE	0
 	print(ans)
-|3,1,0,1,1,0,1666327200,"print(ans)"
-"1	LINE	0
+|3,0,0,1,1,0,1666327200,"print(ans)"
+""1	LINE	0
 	print(ans)
-|3,0,1,1,1,0,1666238800,"print(ans)"
+|3,1,1,1,1,0,1666838204,"print(ans)"
 "2	LINE	0
-	
-|3,0,2,1,1,0,1666238160,""
+	print(ans)
+|3,0,2,1,1,0,1666238800,"print(ans)"
 "3	LINE	0
+	
+|3,0,3,1,1,0,1666238160,""
+"4	LINE	0
 	import sys
-|3,0,3,1,1,0,1666237987,"import sys"
+|3,0,4,1,1,0,1666237987,"import sys"
 "-	CHAR	0
 	 
 |3,0,36,0,1,0,1666232308," "
 
 # File marks:
-'0  6  23  ~/A/A/robosys2022/plus_stdin
-|4,48,6,23,1666327288,"~/A/A/robosys2022/plus_stdin"
-'1  1  0  ~/A/A/robosys2022/COPYING
-|4,49,1,0,1666327204,"~/A/A/robosys2022/COPYING"
-'2  8  5  ~/B/robosys2022/plus_stdin
-|4,50,8,5,1666327172,"~/B/robosys2022/plus_stdin"
-'3  8  0  /
-|4,51,8,0,1666327103,"/"
-'4  8  5  ~/B/robosys2022/plus_stdin
-|4,52,8,5,1666325265,"~/B/robosys2022/plus_stdin"
-'5  4  0  ~/A/A/robosys2022/plus_stdin
-|4,53,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
-'6  4  0  ~/A/A/robosys2022/plus_stdin
-|4,54,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
-'7  8  11  ~/B/plus_stddin
-|4,55,8,11,1666270443,"~/B/plus_stddin"
-'8  1  208  ~/B/plus_stddin
-|4,56,1,208,1666270352,"~/B/plus_stddin"
-'9  15  9  ~/B/plus_stddin
-|4,57,15,9,1666270352,"~/B/plus_stddin"
+'0  9  30  ~/.github/test.yml
+|4,48,9,30,1667443016,"~/.github/test.yml"
+'1  26  10  ~/robosys2022/test.bash
+|4,49,26,10,1666842183,"~/robosys2022/test.bash"
+'2  26  1  ~/robosys2022/test.bash
+|4,50,26,1,1666842123,"~/robosys2022/test.bash"
+'3  14  14  ~/robosys2022/test.bash
+|4,51,14,14,1666841988,"~/robosys2022/test.bash"
+'4  14  14  ~/robosys2022/test.bash
+|4,52,14,14,1666841988,"~/robosys2022/test.bash"
+'5  14  14  ~/robosys2022/test.bash
+|4,53,14,14,1666841988,"~/robosys2022/test.bash"
+'6  14  14  ~/robosys2022/test.bash
+|4,54,14,14,1666841988,"~/robosys2022/test.bash"
+'7  14  0  ~/robosys2022/test.bash
+|4,55,14,0,1666841939,"~/robosys2022/test.bash"
+'8  14  0  ~/robosys2022/test.bash
+|4,56,14,0,1666841939,"~/robosys2022/test.bash"
+'9  14  0  ~/robosys2022/test.bash
+|4,57,14,0,1666841939,"~/robosys2022/test.bash"
 
 # Jumplist (newest first):
--'  6  23  ~/A/A/robosys2022/plus_stdin
-|4,39,6,23,1666327288,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666327225,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/COPYING
-|4,39,1,0,1666327204,"~/A/A/robosys2022/COPYING"
--'  1  0  ~/A/A/robosys2022/COPYING
-|4,39,1,0,1666327204,"~/A/A/robosys2022/COPYING"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666327172,"~/B/robosys2022/plus_stdin"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /
-|4,39,8,0,1666327103,"/"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  /home
-|4,39,8,0,1666327095,"/home"
--'  8  0  ~
-|4,39,8,0,1666327095,"~"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B
-|4,39,8,0,1666327094,"~/B"
--'  8  0  ~/B/robosys2022
-|4,39,8,0,1666327093,"~/B/robosys2022"
--'  8  0  ~/B/robosys2022
-|4,39,8,0,1666327093,"~/B/robosys2022"
--'  8  0  ~/B/robosys2022
-|4,39,8,0,1666327093,"~/B/robosys2022"
--'  8  0  ~/B/robosys2022
-|4,39,8,0,1666327093,"~/B/robosys2022"
--'  1  0  ~/B/robosys2022
-|4,39,1,0,1666327092,"~/B/robosys2022"
--'  1  0  ~/B/robosys2022
-|4,39,1,0,1666327092,"~/B/robosys2022"
--'  1  0  ~/B/robosys2022
-|4,39,1,0,1666327092,"~/B/robosys2022"
--'  1  0  ~/B/robosys2022
-|4,39,1,0,1666327092,"~/B/robosys2022"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  8  5  ~/B/robosys2022/plus_stdin
-|4,39,8,5,1666325265,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  1  0  ~/B/robosys2022/plus_stdin
-|4,39,1,0,1666325141,"~/B/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  4  0  ~/A/A/robosys2022/plus_stdin
-|4,39,4,0,1666325118,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
--'  1  0  ~/A/A/robosys2022/plus_stdin
-|4,39,1,0,1666324930,"~/A/A/robosys2022/plus_stdin"
+-'  9  30  ~/.github/test.yml
+|4,39,9,30,1667443016,"~/.github/test.yml"
+-'  1  0  ~/.github/test.yml
+|4,39,1,0,1667442855,"~/.github/test.yml"
+-'  26  10  ~/robosys2022/test.bash
+|4,39,26,10,1666842183,"~/robosys2022/test.bash"
+-'  26  10  ~/robosys2022/test.bash
+|4,39,26,10,1666842183,"~/robosys2022/test.bash"
+-'  26  1  ~/robosys2022/test.bash
+|4,39,26,1,1666842123,"~/robosys2022/test.bash"
+-'  26  1  ~/robosys2022/test.bash
+|4,39,26,1,1666842123,"~/robosys2022/test.bash"
+-'  14  14  ~/robosys2022/test.bash
+|4,39,14,14,1666842021,"~/robosys2022/test.bash"
+-'  14  14  ~/robosys2022/test.bash
+|4,39,14,14,1666842021,"~/robosys2022/test.bash"
+-'  14  14  ~/robosys2022/test.bash
+|4,39,14,14,1666842021,"~/robosys2022/test.bash"
+-'  14  14  ~/robosys2022/test.bash
+|4,39,14,14,1666842021,"~/robosys2022/test.bash"
+-'  14  14  ~/robosys2022/test.bash
+|4,39,14,14,1666841988,"~/robosys2022/test.bash"
+-'  14  14  ~/robosys2022/test.bash
+|4,39,14,14,1666841988,"~/robosys2022/test.bash"
+-'  14  0  ~/robosys2022/test.bash
+|4,39,14,0,1666841939,"~/robosys2022/test.bash"
+-'  14  0  ~/robosys2022/test.bash
+|4,39,14,0,1666841939,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  4  0  ~/robosys2022/test.bash
+|4,39,4,0,1666841921,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  5  0  ~/robosys2022/test.bash
+|4,39,5,0,1666841903,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841895,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841854,"~/robosys2022/test.bash"
+-'  1  14  ~/robosys2022/test.bash
+|4,39,1,14,1666841854,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  10  0  ~/robosys2022/test.bash
+|4,39,10,0,1666841833,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841833,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841727,"~/robosys2022/test.bash"
+-'  11  0  ~/robosys2022/test.bash
+|4,39,11,0,1666841727,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  11  4  ~/robosys2022/test.bash
+|4,39,11,4,1666841720,"~/robosys2022/test.bash"
+-'  10  4  ~/robosys2022/test.bash
+|4,39,10,4,1666841720,"~/robosys2022/test.bash"
+-'  10  4  ~/robosys2022/test.bash
+|4,39,10,4,1666841720,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  9  4  ~/robosys2022/test.bash
+|4,39,9,4,1666841720,"~/robosys2022/test.bash"
+-'  11  4  ~/robosys2022/test.bash
+|4,39,11,4,1666841720,"~/robosys2022/test.bash"
+-'  10  4  ~/robosys2022/test.bash
+|4,39,10,4,1666841720,"~/robosys2022/test.bash"
+-'  10  4  ~/robosys2022/test.bash
+|4,39,10,4,1666841720,"~/robosys2022/test.bash"
+-'  10  4  ~/robosys2022/test.bash
+|4,39,10,4,1666841717,"~/robosys2022/test.bash"
+-'  10  4  ~/robosys2022/test.bash
+|4,39,10,4,1666841717,"~/robosys2022/test.bash"
+-'  13  0  ~/robosys2022/test.bash
+|4,39,13,0,1666841708,"~/robosys2022/test.bash"
+-'  15  0  ~/robosys2022/test.bash
+|4,39,15,0,1666841708,"~/robosys2022/test.bash"
+-'  13  0  ~/robosys2022/test.bash
+|4,39,13,0,1666841708,"~/robosys2022/test.bash"
+-'  15  0  ~/robosys2022/test.bash
+|4,39,15,0,1666841708,"~/robosys2022/test.bash"
+-'  13  0  ~/robosys2022/test.bash
+|4,39,13,0,1666841708,"~/robosys2022/test.bash"
+-'  15  0  ~/robosys2022/test.bash
+|4,39,15,0,1666841708,"~/robosys2022/test.bash"
+-'  13  0  ~/robosys2022/test.bash
+|4,39,13,0,1666841708,"~/robosys2022/test.bash"
+-'  12  0  ~/robosys2022/test.bash
+|4,39,12,0,1666841708,"~/robosys2022/test.bash"
+-'  15  0  ~/robosys2022/test.bash
+|4,39,15,0,1666841708,"~/robosys2022/test.bash"
+-'  14  0  ~/robosys2022/test.bash
+|4,39,14,0,1666841708,"~/robosys2022/test.bash"
+-'  14  0  ~/robosys2022/test.bash
+|4,39,14,0,1666841708,"~/robosys2022/test.bash"
+-'  13  0  ~/robosys2022/test.bash
+|4,39,13,0,1666841708,"~/robosys2022/test.bash"
+-'  14  0  ~/robosys2022/test.bash
+|4,39,14,0,1666841708,"~/robosys2022/test.bash"
+-'  13  0  ~/robosys2022/test.bash
+|4,39,13,0,1666841708,"~/robosys2022/test.bash"
 
 # History of marks within files (newest to oldest):
 
-> ~/A/A/robosys2022/plus_stdin
-	*	1666327285	0
-	"	6	23
-	^	6	24
-	.	7	0
-	+	12	58
+> ~/.github/test.yml
+	*	1667443013	0
+	"	9	30
+	^	9	31
+	.	9	30
+	+	1	644
+	+	1	605
+	+	9	30
+
+> ~/robosys2022/test.bash
+	*	1666842182	0
+	"	26	10
+	^	26	2
+	.	26	1
+	+	1	32
+	+	1	49
+	+	2	0
+	+	1	32
+	+	16	107
+	+	6	5
+	+	7	0
+	+	7	17
+	+	8	9
+	+	10	12
+	+	10	28
+	+	13	21
+	+	13	62
+	+	16	94
+	+	10	5
+	+	3	39
+	+	8	0
+	+	9	0
+	+	10	5
+	+	15	0
+	+	16	0
+	+	13	21
+	+	14	0
 	+	12	0
-	+	10	16
-	+	8	16
-	+	9	8
-	+	7	2
+	+	10	5
+	+	1	14
+	+	4	0
+	+	5	0
+	+	14	14
+	+	16	0
+	+	26	16
+	+	17	0
+	+	17	24
+	+	18	33
+	+	20	0
+	+	21	31
+	+	22	33
+	+	24	0
+	+	26	1
+
+> ~/robosys2022/plus
+	*	1666840954	0
+	"	14	6
+	^	14	7
+	.	11	7
+	+	19	10
+	+	3	57
+	+	3	392
+	+	3	39
+	+	3	49
+	+	3	113
+	+	3	138
+	+	3	145
+	+	3	230
+	+	3	232
+	+	3	50
+	+	3	49
+	+	3	239
+	+	3	247
+	+	3	325
+	+	3	263
+	+	3	39
+	+	3	49
+	+	3	227
+	+	3	60
+	+	3	244
+	+	3	61
+	+	18	73
+	+	3	39
+	+	8	19
+	+	8	36
+	+	10	21
+	+	11	26
+	+	15	0
+	+	15	26
+	+	18	34
+	+	5	0
+	+	6	0
+	+	8	18
+	+	10	6
+	+	11	25
+	+	15	22
+	+	18	0
+	+	9	0
+	+	11	0
+	+	13	0
+	+	20	0
+	+	17	3
+	+	15	0
+	+	8	3
+	+	9	7
+	+	10	3
+	+	11	7
+
+> ~/robosys2022/README.md
+	*	1666838663	0
+	"	1	0
+
+> ~/robosys2022/EADME.md
+	*	1666838631	0
+	"	1	0
+
+> ~/robosys2022/plus_stdin
+	*	1666838582	0
+	"	14	0
+	^	14	0
+	.	14	0
+	+	7	6
+	+	8	3
+	+	15	177
+	+	15	76
+	+	5	10
+	+	15	0
+	+	14	125
+	+	14	0
+
+> ~/robosys2022/yamada.bash
+	*	1666838487	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	19
+	+	1	60
+	+	12	14
+	+	11	0
+	+	12	0
+	+	10	0
+	+	9	0
+	+	6	18
+	+	7	0
+	+	6	30
 	+	5	0
 	+	4	0
-	+	7	0
+	+	5	7
+	+	6	0
+	+	7	5
+	+	6	0
+	+	8	0
+	+	9	1
+	+	10	1
+	+	11	1
+	+	13	2
+	+	2	0
+
+> ~/robosys_plus/plus_stdin
+	*	1666836881	0
+	"	25	87
+	^	25	88
+	.	25	88
+	+	1	34
+	+	1	260
+	+	1	28
+	+	1	209
+	+	1	18
+	+	1	64
+	+	1	103
+	+	1	349
+	+	1	209
+	+	25	88
+
+> ~/B/robosys2022/plus_stdin
+	*	1666334258	0
+	"	14	27
+	^	15	0
+	.	15	0
+	+	1	349
+	+	2	0
+	+	1	350
+	+	1	296
+	+	1	314
+	+	1	298
+	+	1	193
+	+	1	176
+	+	1	338
+	+	1	360
+	+	14	61
+	+	8	11
+	+	9	0
+	+	10	8
+	+	12	0
+	+	13	0
+	+	15	0
+
+> ~/A/A/robosys2022/plus_stdin
+	*	1666333942	0
+	"	1	0
+	^	1	0
+	.	13	21
+	+	11	58
+	+	11	0
+	+	9	16
+	+	7	16
+	+	8	8
+	+	6	2
+	+	5	0
+	+	4	0
+	+	6	0
+	+	4	0
+	+	6	0
+	+	9	30
+	+	7	28
+	+	13	21
+
+> ~/robosys2022
+	*	1666333694	0
+	"	1	0
+
+> ~/B/robosys2022/plus_sdin
+	*	1666333252	0
+	"	1	0
+
+> ~/B/robosys2022/plus
+	*	1666333234	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/A/A/robosys2022/COPYING
 	*	1666327202	0
 	"	1	0
-
-> ~/B/robosys2022/plus_stdin
-	*	1666327169	0
-	"	8	5
-	^	8	6
-	.	8	5
-	+	1	349
-	+	16	0
-	+	14	12
-	+	12	4
-	+	13	0
-	+	12	6
-	+	9	2
-	+	8	5
 
 > ~/B/plus_stddin
 	*	1666270441	0
@@ -345,24 +555,6 @@ $
 	*	1666270245	0
 	"	1	0
 	^	1	0
-
-> ~/robosys_plus/plus_stdin
-	*	1666239191	0
-	"	14	24
-	^	14	25
-	.	14	24
-	+	1	34
-	+	1	260
-	+	1	28
-	+	11	8
-	+	12	0
-	+	2	0
-	+	2	46
-	+	4	0
-	+	3	39
-	+	4	0
-	+	13	130
-	+	14	24
 
 > ~/plus_stdin
 	*	1666238826	0

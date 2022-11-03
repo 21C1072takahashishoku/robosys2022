@@ -531,3 +531,429 @@ gti commit -m "Add a command"
 git commit -m "Add a command"
 git log -n 1
 git push
+ls
+ls =/robosys2022
+cd B
+ls
+cd
+cd B
+ls
+cd robosys2022
+ls
+cd
+cd A
+cd robosys2022
+ls
+cdA
+cd A
+ls
+robosys 2022
+cd robosys2022
+ls
+vi plus_stdin
+cd
+cd B
+cd robosys2022
+vi plus_stdin
+cd
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+ls
+git push robosys2022
+git push git@github.com:s21c1072/robosys2022.git
+git push robosys2022
+ls
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+git push git@github.com:s21c1072/robosys2022.git
+git push
+git push git@github.com:s21c1072/robosys2022.git
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+git push robosys2022
+git push git@github.com:s21c1072/robosys2022.git
+cd B
+ls
+vi robosys2022
+ls
+vi robosys2022
+cd
+cd A
+ls
+cd A
+robosys2022
+vi robosys2022
+cd robosys2022
+vi plus_stdin
+git add -A
+git status
+git commit -m "Add a command"
+git push
+cd
+git add -A
+git status
+git commit -m "Add a command"
+git push
+cd A
+ls
+git add -A
+git commit -m "Add a line"
+git push
+
+cd A
+cd robosys2022
+git add -A
+git commit -m "Add a line"
+git push
+git merge --allow-unrelated-histories origin/main
+cd A
+ls
+cd A
+ls
+cd robosys2022
+ls
+ci plus_stdin
+vi plus_stdin
+cd
+cd B
+ks
+ls
+cd robosys2022
+vi plus_stdin
+git add -A
+git commit -m "Add a line to remove the LF"
+git push
+git pull
+git reset --hard origin/main
+git pull
+cd B
+ls
+cd robosys2022
+ls
+git add -A
+git commit -m "Add a line to remove the LF"
+git push
+git pull
+vi plus_stdin
+cd
+cd A
+ls
+cd A
+cd robosys2022
+vi plus_stdin
+ls
+vi plus_stdin
+cd
+cd B
+cd robosys2022
+git add -A
+git commit -m "Add a line to remove the LF"
+git push
+vi plus_stdin
+cd
+cd A
+cd robosys2022
+git add -A
+git commit -m "Add a line to remove the LF"
+git push
+git pull
+cd
+cd B
+cd robosys2022
+vi plus_stdin
+git add -A
+git commit -m "Add a line to remove the LF"
+git push
+git pull
+vi plus stdin
+;s
+vi plus_sdin
+vi plus_stdin
+git add -A
+git commit -m "Add a line to remove the LF"
+git push
+git log
+git switch -d fa8aab8
+git seitch -d f825db3e
+git switch -d f825db3e
+git branch
+cat plus_stdin
+cd plus_stdin /tmp/
+cp plus_stdin /tmp/
+git switch -
+ls
+vi robosys2022
+rm V
+rm B
+ls
+rm B
+cd B
+ls
+cd
+cd A
+ls
+rm A
+rmdir A
+rm -r A
+cd A
+ls
+cd A
+cd robosys2022
+vi plus_stdin
+ls
+cd
+cd B
+ls
+robosys2022
+cd robosys2022
+ls
+plus_stdin
+vi plus_stdin
+cd
+cd A
+ls
+cd A
+ls
+cd robosys2022
+ls
+rm COPYING
+ls
+cd
+ls
+rm -r A
+cd B
+ls
+cd robosys2022
+vi plus_stdin
+git add -A
+git status
+git commit -, "Add a command"
+git commit -m "Add a command"
+git log -n 1
+git push
+ls aaaa
+seq 3/ ./plus_stdin
+seq 3 | ./plus_stdin
+ls
+cd robosys2022
+cd robosys_plus
+ls
+seq 3 | ./plus_stdin
+vi plus_stdin
+seq 3 | ./plus_stdin
+vi plus_stdin
+seq 3 | ./plus_stdin
+vi plus_stdin
+seq 3 | ./plus_stdin
+X=我々は宇宙人だ
+echo ${X}ぜ！
+echo $X
+echo '$X'
+cd
+ks
+ls
+cd robosys2022
+cd A
+ls
+cd
+cd robosys_plus
+ls
+cd robosys_plus
+ls
+cd
+cd robosys2022
+cd B
+ls
+cd
+cd A
+ls
+cd
+cd B
+cd robosys2022
+ls
+cd
+cd B
+cd
+ls
+explorer.exe .
+ls
+cd robosys2022
+seq 3 | ./plus_stdin
+vi plus_stdin
+a=山田
+[ "$a" = 上田 ]
+echo $?
+[ "$a" = 山田 ]
+echo $?
+vi plus_stdin
+seq 3 | ./plus_stdin
+vi plus_stdin
+seq 3 | ./plus_stdin
+vi yamada.bash
+CHMOD +X YAMADA.BASH
+chmod +x yamada.bash
+./yamada.bash
+vi yamada.bash
+vi plus_stdin
+seq 3 | ./plus_stdin
+vi plus_stdin
+seq 3 | ./plus_stdin
+vi plus_stdin
+seq 3 | ./plus_stdin
+
+seq 3 | ./plus_stdin
+vi yamada.bash
+./yamada.bash
+vi yamada.bash
+./yamada.bash
+echo $?
+vi plus_stdin
+cd
+cd robosys2022
+ls
+vi EADME.md
+vi README.md
+ls
+mv plus_stdin plus
+ls
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+vi test.bash
+./test
+ls
+./test.bash
+ls
+vi test.bash
+./test.bash
+ls
+chmod ;x test.bash
+chmod +x test.bash
+./test.bash
+ls
+./test.bash
+vi test.bash
+./test.bash
+vi plus
+./test.bash
+vi test.bash
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus
+vi plus
+./plus 
+seq 5 | ./plus 
+./test.bash
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+vi test.bash
+./test.bash
+echo $?
+vi test.bash
+./test.bash
+echo $?
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+echo $?
+vi test.bash
+./test.bash
+echo $?
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+git add -A
+git status
+git commit "Add a command"
+git commit -m "Add a command"
+git log -n 1
+git push
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+vi test.bash
+./test.bash
+ls
+rm yamada.bash
+ls
+git add -A
+gti status
+gti commit -m "Add a command"
+git log -n 1
+git push
+ls
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
