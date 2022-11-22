@@ -957,3 +957,845 @@ git status
 git commit -m "Add a command"
 git log -n 1
 git push
+mkdir .github
+cd .github/
+mkdir workflows
+touch test.yml
+ls
+vi test.yml
+git add -A
+git status
+git commit -m "Add a command"
+ls
+cd workflows
+explorer.exe .
+ls
+git add -A
+ls
+explorer.exe .
+
+explorer.exe .
+git add -A
+git status
+git commit -m "Add a command"
+git push
+git log -n 1
+git push
+git add -A
+git commit -m "Add a command"
+git log -n 1
+git push
+vi test.yml
+git add -A
+cd
+ls
+cd robosys2022
+cd
+cd robosys2022
+explorer.exe .
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+cd
+mkdir A
+ls
+cd robosys2022
+cd
+cd robosys2022
+ls
+cd
+ls
+explorer.exe .
+ls]
+ls
+cd robosys2022
+ls
+cd robosys2022
+ls
+explorer.exe .
+cd github
+mkdir .github
+explorer.exe .
+mkdir .github
+cd github
+cd .github
+mkdir workflows
+cd workflows
+touch test.yml
+vi test.yml
+git add -A
+gti status
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+cd
+cd robosys2022
+ls
+cd workflows
+cd .github
+cd workflows
+ls
+git add -A
+git status
+cd
+mkdir A
+explorer.exe .
+ls
+cd robosys2022
+ls
+cd A
+ls
+explorer.exe .
+cd .github
+ls
+cd workflows
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+ls
+cd
+ls
+cd robosys2022
+ls
+cd A
+ls
+explorer.exe .
+cd
+explorer.exe .
+cd robosys2022
+cd A
+ls
+cd robosys2022
+mkdir .github
+cd .github
+cd workflows/
+mkdir workflows
+cd workflows/
+touch test.yml
+vi test.yml
+git add -A
+git status
+git commit"Add a comand"
+git commit -m "Add a command"
+git log -n 1
+git push
+git pull
+git config pull .rebase false
+git push origin 
+git status
+cd
+cd robosys2022
+git pull
+cd
+git pull
+cd robosys2022
+git pull
+git config pull.rebase false
+cd
+cd robosys2022
+ls
+cd A
+ls
+cd robosys2022
+cd
+cd robosys2022
+rm A
+ls
+cd S
+cd A
+ls
+mkdir .github
+ls
+mkdir .github
+ls
+cd .github
+cd
+cd robosys2022
+cdA
+ls
+cd A
+ls
+cd
+cd robosys2022
+mkdir d
+ls
+rm d
+rmdir d
+ls
+rmdir A
+ls
+cd A
+cd
+cd robosys2022
+ls
+rmdir a
+rmdir A
+rmdir -A
+cd A
+cd
+cd robosys2022
+mkdir .github
+ls
+cd .github
+cd
+cd robosys2022
+cd .github/
+mkdir workflows
+cd workflows/
+touch test.yml
+vi test.yml
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+git push --help
+git pull
+git push
+ls
+vi test.yml
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+vi test.yml
+git add -A
+git status
+git commit -m "Add a command"
+git log -n 1
+git push
+cd robosys2022
+ls
+cd A
+ls
+cd
+cd robosys2022
+cd .github
+ls
+cd workflows
+ls
+cd
+cd robosys2022
+explorer.exe .
+ls -a
+ls
+cd
+ls
+cd GIT
+ls
+cd
+cd robosys2022
+cd .github
+ls
+cd workfloes
+cd workflows
+vi test.yml
+git add -A
+git status
+git commit -m "Add a command"
+git push
+cd
+# robosys2022
+cd robosys2022
+# robosys2022
+ls
+vi README.md
+ls
+cd GIT
+ls
+cd
+git clone https://github.com/ryuichiueda/ros2_setup_scripts
+ls
+cd ros2_setup_sctipts
+cd ros2_setup_scripts
+./setup.bash
+source ~/.bashrc
+ros2
+explorer.exe .
+cd
+explorer.exe .
+ls
+cd robosys2022
+ls
+source ~/.bashrc
+cd ros2_setup_scripts
+source ~/.bashrc
+ls
+./setup.bash
+ros2
+ls
+git add -A
+git commit "Add a command"
+git commit -m "Add a command"
+git push
+cd
+cd robosys2022
+git add -a
+git add -A
+git pull
+git add -A
+git status
+git commit -m "Add a command"
+git push
+cd ros2_setup_scripts
+./setup.bash
+cd
+cd robosys2022
+./setup.bash
+cd ros2_setup_scripts
+./setup.bash
+ls
+cd .bashrc
+vi setup.bash
+./setup.bash
+source ~/.bashrc
+ros2
+./setup.bash
+ros2
+explorer.exe .
+cd
+cd robosys2022
+ls
+cd ros2_setup_scripts
+git pull
+git add -A
+git status
+git commit -m "Add a command"
+git push
+cd robosys2022
+ls
+cd README
+cd README.md
+vi README.md
+git clone https://github.com/ryuichiueda/ros2_setup_scripts
+cd
+cd GIT
+ls
+cd
+cd git
+ls
+cd GIT
+ls
+cd
+ls -m
+cd A
+cd robosys2022
+ls
+cd
+ls
+cd tmp
+mkdir tmp
+cd tmp
+ls
+git clone git@github.com:s21c1072/robosys2022.git
+cd
+ls tmp/robosys2022/
+mkdir A
+mv robosys2022/ ./A/
+mv tmp/ B
+ls */robosys2022
+lls
+ls
+cd A
+cd
+ls -m
+cd A
+ls
+cd robosys2022/
+ls
+rmdir A
+explorer.exe .
+ls
+git pull
+ls
+explorer.exe .
+ls
+git pull
+ls
+vi plus_stdin
+git add -A
+git commit -m "Make a function"
+git push
+cd
+cd ../../B/
+ls
+cd B
+cd robosys2022//
+cd robosys2022/
+ls
+vi plus_stdin
+git add -A
+git push
+git pull
+
+git pull
+cd B
+cd
+ls
+cd robosys2022
+ls
+explorer.exe .
+ls
+git pull
+cd robosys2022
+ls
+cd
+cd B
+cd
+cd robosys2022
+ls
+git add -A
+git commit -m "add a command"
+git push
+cd robosys2022
+ls
+explorer.exe .
+git clone https://github.com/ryuichiueda/ros2_setup_scripts
+ros2_setup_scripts
+cd ros2_setup_scripts
+explorer.exe .
+git pull
+git clone git@github.com:s21c1072/robosys2022.git
+git pull
+git clone https://github.com/ryuichiueda/ros2_setup_scripts
+git pull
+cd
+cd robosys2022
+git pull
+ls
+git clone https://github.com/ryuichiueda/ros2_setup_scripts
+cd ros2_setup_scripts
+./setup.bash
+source ~/.bashrc
+ros2
+git pull
+explorer.exe .
+cd robosys2022
+ls
+cd ros2_setup_scripts
+ls
+vi setup.bash
+ros2
+git add -A
+git commit -m "Add a command"
+git push
+cd
+cd robosys2022
+git add -A
+git pull
+git add -A
+git commit -m "Add a command"
+git push
+cd ros2_setup_scripts
+ros2
+ros2 run demo_nodes_py listener
+ros2 run rqt_graph rqt_graph
+ros2 run demo_nodes_py talker
+ros2 run rqt_graph rqt_graph
+ros2 run demo_nodes_py listener
+ros2 run rqt_graph rqt_graph
+cd robosys2022
+cd ros2_setup_scripts
+ls
+ros2 run demo_nodes_py talker
+cd
+
+ros2 run demo_nodes_py talker
+ros2 run demo_nodes_py listener
+cd robosys2022
+cd ros2_setup_scripts
+ls
+ros2 run demo_nodes_py talker
+ros2 run demo_nodes_py listener
+ps u
+ros2 run demo_nodes_py talker
+ros2 run demo_nodes_py listener
+ros2 run rqt_graph rqt_graph
+
+ros2 run demo_nodes_py talker
+cd
+tree ros2_ws/
+ls
+mv ros2_ws
+cd ros2_ws
+tree ros2_ws/
+cd
+tree ros2_ws/
+sudo apt install tree
+tree ros2_ws/
+cd ~/ros2_ws/src
+ros2 pkg create mypkg --build-type ament-python
+ros2 pkg create mypkg --build-type ament_python
+tree
+vi pavkage.xml
+ls
+cd mypkg
+ls
+vi pavkage.xml
+ls
+vi package.xml
+ls
+vi setup.py
+vi package.xml
+vi setup.py
+cd
+cd ~/ros2_ws/
+colcon build
+~/ros2_ws/install/setup.bash
+ls
+cd install
+ls
+vi setup.bash
+ls
+cd
+cd ros2_ws
+ls
+cd build
+;s
+ls
+cd
+cd ros2_ws
+ls
+cd install
+ls
+cd -
+ls
+source ~/ros2_ws/install/setup.bash
+source ~/ros2_ws/install/local_setup.bash
+source ~/.bashrc
+ros2 pkg list | grep mypkg
+cd robosys2022
+ls
+explorer.exe .
+vi README.md
+git add -A
+git commit "Add a command"
+git commit
+git commit "Add a command"
+git add -A
+git status
+git commit -m "Add a command"
+git push
+source ~/.bashrc
+cd ~/ros2_ws/
+source ~/.bashrc
+ros2 pkg list | grep mypkg
+colcon build
+source ~/ros2_ws/install/setup.bash
+source ~/ros2_ws/install/lobal_setup.bash
+source ~/.bashrc
+ros2 pkg list | grep mypkg
+import rclpy
+cd src
+ls
+cd mypkg
+ls
+vi talker.py
+ls
+vi package.xml
+vi setup.py
+cd
+cd ~/ros2_ws
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+colon build
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+ls
+cd ros2_ws/
+ros2 run mypkg talker
+ls
+cd src/
+ls
+cd ../
+colcon build
+ls
+cd src/
+ls
+cd mypkg/
+ls
+vi setup.py 
+vi package.xml 
+colcon build
+ros2 run mypkg talker
+cd ../..
+sudo rosdep install -i --from-path src --rosdistro humble -y
+rosdep update
+sudo rosdep install -i --from-path src --rosdistro humble -y
+cd
+ls -a
+cat . bashrc
+cat .bashrc
+source ~/.bashrc 
+cd ros2_ws/
+ros2 run mypkg talker
+ls src/
+ros2 list
+ros2 node list
+ros2 package list
+ros2 run mypkg talker
+cd src/
+ls
+cd mypkg/
+l
+vi package.xml 
+vi setup.p
+vi setup.py 
+ls
+cd mypkg/
+l
+cd ../
+colcon build/
+cd ../
+colcon build/
+cd ../
+colcon build/
+colcon build
+ros2 run mypkg talker
+cat ./src/mypkg/talker.py 
+nano ./src/mypkg/talker.py 
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+ls
+cd
+ls
+cd ros2_ws
+ls
+cd src
+ls
+cd mypkg
+cd
+cd ros2_ws
+cd src
+cd mypkg
+ls
+vi packge.xml
+ls
+vi package.xml
+ls
+vi setup.py
+cd
+vi .bashrc 
+cd ros2_ws
+ls
+cd src
+cd
+cd ros2_ws
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+ls
+cat src/mypkg/setup.py 
+ls
+cd src
+ls
+cd
+cd ros2_ws
+cat src/mypkg/setup.py 
+cat src/mypkg/talker.py 
+ros2 run mypkg talker
+ls
+cd src
+ls
+cd mypkg
+ls
+vi setup.pu
+vi setup.py
+cd
+cd ros2_ws
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+ls
+cd src
+ls
+cd mypkg
+ls
+vi taler.py
+vi talker.py
+ls
+vi setup.py
+cd
+cd ros2_ws
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+cd src
+ls
+cd mypkg
+ls
+cd setup.py
+vi setup.py
+ls
+vi talker.py
+cd
+cd ros2_ws
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+cd ros2_ws
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+cd ros2_ws
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+sudo ros update
+sudo rosdep update
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+cd src
+ls
+cd mypkg
+ls
+vi talker.py
+cd
+cd ros2_ws
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+colcon build
+source ~/.bashrc
+ros2 run mypkg talker
+ls
+ls src/mypkg/
+cd src/mypkg/
+ls mypkg/
+ls
+vim talker.py 
+vim setup.py
+ls
+mv setup.py mypkg
+ls
+cd mypkg
+ls
+cd
+cd ros2_ws
+cd src
+cd mypkg
+mv talker.py mypkg
+ls
+cd
+cd ros2_ws
+colcon build
+sudo rosdep install -i --from-path src --rosdistro humble -y 
+colcon build
+explorer.exe 
+git pull
+cd
+git pull
+cd ros2_ws
+ls
+cd src
+ls
+cd mypkg
+ls
+package.xml
+vi package.xml
+cd
+cd ros2_ws
+colcon build
+source ~/.bash
+source ~/.bashrc
+ros2 run mypkg talker
+vi ~/.bashrc 
+cd src/mypkg/mypkg/
+ls
+cd
+cd ros2_ws
+cd src
+cd mypkg
+mv talker.py mypkg
+ls
+cd mypkg
+ls
+cd
+ros2 run mypkg talker
+source ~/.bashrc 
+ros2 run mypkg talker
+cd ros2_ws/src/mypkg/
+ls
+cat package.xml 
+cat setup.py
+ros2 run mypkg talker 
+cd mypkg/
+ls
+cd ../
+colcon build
+source ~/.bashrc 
+ros2 run mypkg talker 
+cat mypkg/setup.py
+ls
+cd mypkg/
+ls
+cd mypkg/
+ls
+ros2 run mypkg talker 
+cd ../
+ls
+cat package.xml 
+cat mypkg/talker.py 
+ros2 run mypkg talker 
+cat mypkg/__init__.py 
+cd mypkg/
+vi talker.py 
+cd ../
+vi setup.py 
+ros2 run mypkg talker 
+cd ros2_ws/src/mypkg/
+ls
+ls]
+ls
+vi setup.py 
+vi mypkg/talker.py 
+source ~/.bashrc 
+ros2 run mypkg talker 
+ls
+ros2 pkg list | grep mypkg
+vi mypkg/talker.py 
+ls
+rm -rf build/
+rm -rf install/
+rm -rf log/
+cd ../
+ls
+rm -rf build/ install/ log/
+ls
+cd ../
+ls
+colcon build
+ros2 pkg list | grep mypkg
+source ~/.bashrc 
+ros2 run mypkg talker 
+ros2 topic echo /countup
+ros2 run mypkg listener
+cd tos2_wd
+cd tos2_ws
+cd ros2_ws
+cd src
+cd mypkg
+listener.py
+vi listener.py
+ls
+rm listener.py
+ls
+vi setup.py
+cd
+colcon build
+cd ros2_ws
+colcon build
+ls
+cd src
+cd
+explorer.exe .
+ros2 run mypkg listener
