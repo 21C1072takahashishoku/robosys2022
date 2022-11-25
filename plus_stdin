@@ -1,16 +1,19 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Shoku Takahashi
+# SPDX-License-Identifier: BSD-3-Clause
+
 import sys
-
-
-def tonum(s):
-    try:
-       return int(s)
-   except:
-       return float(s)
-
-
-ans = 0
+ans1 = 0  
+ans2 = 1
+ans3 = 0
 for line in sys.stdin:
-    ans += tonum(line)
+    try:
+        ans1 += int(line)
+        ans2 *= int(line)
+        ans3 += 1
+    except:
+        ans1 += float(line)
+        ans2 *= float(line)
+        ans3 += 1.0
 
-    print(ans)
+print(ans1,ans2,ans1/ans3)
