@@ -5,6 +5,7 @@
 # plusコマンド
 ![test](https://github.com/s21c1072/robosys2022/actions/workflows/test.yml/badge.svg)
 
+https://github.com/s21c1072/robosys2022/blob/main/plus
 標準入力から読み込んだ数字を足す。
 
 # plus_stdinコマンド
