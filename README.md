@@ -1,6 +1,6 @@
 # robosys2022
-ロボットシステム学の練習リポジトリ\n
-インストール方法
+ロボットシステム学の練習リポジトリ  
+インストール方法  
 $ git@github.com:s21c1072/robosys2022.git
 # plusコマンド
 ![test](https://github.com/s21c1072/robosys2022/actions/workflows/test.yml/badge.svg)
@@ -9,9 +9,9 @@ $ git@github.com:s21c1072/robosys2022.git
 
 # plus_stdinコマンド
 
-標準入力から読み込んだ数字を足す。 
-標準入力から読み込んだ数値を乗ずる。 
-標準入力から読み込んだ数字の平均を求める。
+標準入力から読み込んだ数字を足す。   
+標準入力から読み込んだ数値を乗ずる。   
+標準入力から読み込んだ数字の平均を求める。  
 
 ## 必要なソフトウェア
 * Python
