@@ -1,6 +1,6 @@
 # robosys2022
-ロボットシステム学の練習リポジト*
-インストール方法*
+ロボットシステム学の練習リポジトリ\n
+インストール方法
 $ git@github.com:s21c1072/robosys2022.git
 # plusコマンド
 ![test](https://github.com/s21c1072/robosys2022/actions/workflows/test.yml/badge.svg)
