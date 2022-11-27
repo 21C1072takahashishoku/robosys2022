@@ -20,7 +20,8 @@
 ## テスト環境
 * Ubuntu
 
-#LICENSE
+
+##LICENSE
 © 2022 Takahashi shoku
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * © 2022 Shoku Takahashi
