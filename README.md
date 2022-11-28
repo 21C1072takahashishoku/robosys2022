@@ -1,7 +1,10 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ  
 インストール方法  
-```$ git clone git@github.com:s21c1072/robosys2022.git```
+```
+$ git clone git@github.com:s21c1072/robosys2022.git   
+$ cd robosys2022  
+```
 # plusコマンド
 ![test](https://github.com/s21c1072/robosys2022/actions/workflows/test.yml/badge.svg)  
 標準入力から読み込んだ数字を足す。  
