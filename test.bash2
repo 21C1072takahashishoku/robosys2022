@@ -10,7 +10,7 @@
   res=0
 
   ###1/0 test ###
-  ut=$(seq 7 | ./plus)
+  out=$(seq 7 | ./plus)
   [ "${out}" = 28 ] || ng ${LINENO}
 
   ###strange input ###
